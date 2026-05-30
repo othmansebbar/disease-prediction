@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+venv_disease/
+.env
+.ipynb_checkpoints/
+*.joblib
+data/raw/
+data/processed/
